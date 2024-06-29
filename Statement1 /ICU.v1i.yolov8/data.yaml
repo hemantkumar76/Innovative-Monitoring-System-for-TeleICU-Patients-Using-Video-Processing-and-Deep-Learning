@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Doctor', 'Family-Member', 'Nurse', 'Patient']
+
+roboflow:
+  workspace: hemant76
+  project: icu-0utpc
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/hemant76/icu-0utpc/dataset/1

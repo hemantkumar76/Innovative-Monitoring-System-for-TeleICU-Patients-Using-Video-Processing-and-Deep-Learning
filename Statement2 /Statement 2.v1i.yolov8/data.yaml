@@ -1,0 +1,13 @@
+train: /Users/hemant./Intel_Final/Statement 2. /Statement 2.v1i.yolov8/train/images
+val: /Users/hemant./Intel_Final/Statement 2. /Statement 2.v1i.yolov8/valid/images
+test: ../test/images
+
+nc: 2
+names: ['Movement-NO', 'Movement-Yes']
+
+roboflow:
+  workspace: hemant76
+  project: statement-2
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/hemant76/statement-2/dataset/1
