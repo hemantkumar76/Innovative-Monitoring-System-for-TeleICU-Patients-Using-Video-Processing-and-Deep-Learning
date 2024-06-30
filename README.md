@@ -1,5 +1,5 @@
 # ICU Monitoring System with YOLOv8
-
+![ICU Monitoring System GIF]([https://example.com/path-to-your-gif.gif](https://i.pinimg.com/originals/be/b5/41/beb541eeb1ee06ba00ef55d5baa60773.gif))
 Welcome to our ICU Monitoring System project! This endeavor is a passion project by Hemant, an enthusiastic coder and developer from India who deeply believes in the transformative power of AI and the strength of community. "Innovation is not just a goal but a pathway to achieving better health outcomes," says Hemant, driven by a relentless commitment to pushing boundaries and making a meaningful impact in healthcare.
 
 
