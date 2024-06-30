@@ -89,8 +89,8 @@ https://github.com/hemantkumar76/Innovative-Monitoring-System-for-TeleICU-Patien
 
 To use this project anywhere anytime, simply visit the hosted versions:
 
-1. [ICU People Detection](#)
-2. [ICU Patient Movement Detection](#)
+1. [ICU People Detection](https://hemanticupatientmonitor.streamlit.app/)
+2. [ICU Patient Movement Detection](https://hemanticupatientmonitor.streamlit.app/)
 
 
 ## How We Built It 🛠️👷‍♂️
