@@ -73,7 +73,7 @@ pip install -r requirements.txt
 
 https://github.com/hemantkumar76/Innovative-Monitoring-System-for-TeleICU-Patients-Using-Video-Processing-and-Deep-Learning/assets/92645502/d73be6dc-a6a4-4776-9cde-39f7a72bb597
 
-  <a href="https://drive.google.com/drive/folders/1wEsnmvIOp9aLoDtd6JuBmsW2kJRNCxuS" target="_blank"><button>Click here to see the video</button></a>
+  <a href="https://drive.google.com/file/d/1CIduEMnZ01wngDvDEe3wknJYrqQ5W8uK/view?usp=sharing" target="_blank"><button>Click here to see the video</button></a>
 
 
 
@@ -82,7 +82,7 @@ https://github.com/hemantkumar76/Innovative-Monitoring-System-for-TeleICU-Patien
 
 https://github.com/hemantkumar76/Innovative-Monitoring-System-for-TeleICU-Patients-Using-Video-Processing-and-Deep-Learning/assets/92645502/1d93f0fe-8abb-4cd0-a7cd-a3bd4af73aaf
 
-  <a href="https://drive.google.com/drive/folders/1wEsnmvIOp9aLoDtd6JuBmsW2kJRNCxuS" target="_blank"><button>Click here to see the video</button></a>
+  <a href="https://drive.google.com/file/d/1dwDaJbd0n2cQ06ICH4iH3dxLvK89K0ad/view?usp=sharing" target="_blank"><button>Click here to see the video</button></a>
 
 
 ## Demonstration Of Hosted Version Of This Project
