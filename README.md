@@ -105,8 +105,27 @@ We utilized a diverse tech stack to build this project:
 - **PyTorch**: Assisted in loading and running the YOLO models.
 - **Roboflow**: Managed dataset labeling and organization.
 
-## Model performance 
+## 📈 Model Performance
 
+Our model has demonstrated excellent performance in detecting ICU personnel and patient movements. Here are the results:
+
+### Statement 1 Results:
+
+- Precision (B): 0.9947373506120167
+- Recall (B): 0.9438166761139646
+- mAP50 (B): 0.995
+- mAP50-95 (B): 0.550242144587505
+- Fitness: 0.5947179301287545
+
+### Statement 2 Results:
+
+- Precision (B): 0.8950439182995845
+- Recall (B): 1.0
+- mAP50 (B): 0.9835714285714285
+- mAP50-95 (B): 0.5238245527701464
+- Fitness: 0.5697992403502746
+
+These results indicate that our model is highly accurate and reliable in detecting ICU personnel and patient movements, making it a valuable tool for healthcare professionals.
 
 ## 🚀 Future Work
 
