@@ -1,4 +1,4 @@
-# ICU Monitoring System with YOLOv8
+# INNOVATIVE MONITORING SYSTEM FOR TELEICU PATIENTS USING VIDEO PROCESSING AND DEEP LEARNING
 Welcome to our ICU Monitoring System project! This endeavor is a passion project by Hemant, an enthusiastic coder and developer from India who deeply believes in the transformative power of AI and the strength of community. "Innovation is not just a goal but a pathway to achieving better health outcomes," says Hemant, driven by a relentless commitment to pushing boundaries and making a meaningful impact in healthcare.
 
 
