@@ -35,7 +35,7 @@ The dataset was utilized in two distinct ways for different parts of the project
 
 2. **Statement 2**: To detect patient movement, we extracted and used only the patient portions from the full ICU room videos. This focused dataset allowed us to train our model to accurately detect patient movements, which is crucial for alerting healthcare professionals in real-time.
 
-A subset of this data is publicly available for further exploration and use. You can access it [here](https://github.com/hemantkumar76/Innovative-Monitoring-System-for-TeleICU-Patients-Using-Video-Processing-and-Deep-Learning/tree/main/Video%20Data).
+A subset of this data is publicly available on my github repo for further exploration and use. You can access it [here](https://github.com/hemantkumar76/Innovative-Monitoring-System-for-TeleICU-Patients-Using-Video-Processing-and-Deep-Learning/tree/main/Video%20Data).
 
 ## Project Structure
 <pre>
