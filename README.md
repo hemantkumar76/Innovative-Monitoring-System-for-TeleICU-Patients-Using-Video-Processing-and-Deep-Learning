@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 ## Demonstration Of this Project in Local Environment
 
-1. [ICU People Detection Video](#): This video demonstrates the detection of all people in an ICU.
+1. ICU People Detection Video: This video demonstrates the detection of all people in an ICU.
 
 
 
@@ -77,7 +77,7 @@ https://github.com/hemantkumar76/Innovative-Monitoring-System-for-TeleICU-Patien
 
 
 
-2. [ICU Patient Movement Detection Video](#): This video demonstrates the detection of patient movement in an ICU.
+2. ICU Patient Movement Detection Video: This video demonstrates the detection of patient movement in an ICU.
 
 
 https://github.com/hemantkumar76/Innovative-Monitoring-System-for-TeleICU-Patients-Using-Video-Processing-and-Deep-Learning/assets/92645502/1d93f0fe-8abb-4cd0-a7cd-a3bd4af73aaf
